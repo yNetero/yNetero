@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yNetero
 - 👀 I’m interested in Mobile developer and Learn programing
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on beginner codes
 - 📫 How to reach me Alagoas Brazil
 
